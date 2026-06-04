@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+.Ulysses-Group.plist
+.Ulysses-Settings.plist
+
+# Project docs (local only)
+*.md
+!README.md
